@@ -1,0 +1,6 @@
+{
+  "values": [
+    "ts_bp:core/load",
+    "better_collision:core/load"
+  ]
+}
