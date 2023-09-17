@@ -1,4 +1,4 @@
-# TeleScope_BeamParticle
+# 1.19.x - TeleScope_BeamParticle
 - Sypgrassを持ってスニークしたときに前方にパーティクルが出ます。
 - onoffをゲーム内で1クリックで切り替えることができます
 - 自身のみ可視化することも同じく1クリックで切り替えられます
